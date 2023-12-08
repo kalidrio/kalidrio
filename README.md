@@ -1,12 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ... navigating my life through college, bruhhhh
-- 🌱 I’m currently learning ... everything? with a shaky foundation, nonetheless
-- 👯 I’m looking to collaborate on ... anything I can, once I'm done learning the basics
-- 🤔 I’m looking for help with ... getting starteddd.
-- 💬 Ask me about ... passions; I'm starting to doubt if I have any ;-;
-- 📫 How to reach me: ... lorem ipsum
-- ⚡ Fun fact: ... Day 0 on Github 09/06/23
 <!--
 **kalidrio/kalidrio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
